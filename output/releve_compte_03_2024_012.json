@@ -1,0 +1,206 @@
+{
+   "initial_amount": 1471.51,
+   "final_amount": 697.65,
+   "transactions": [
+      {
+         "date": "01/03/2024",
+         "label": "Remboursement Sécurité Sociale",
+         "amount": 67.87
+      },
+      {
+         "date": "01/03/2024",
+         "label": "Paiement carte - Pharmacie",
+         "amount": -69.45
+      },
+      {
+         "date": "01/03/2024",
+         "label": "Achat en ligne - Amazon",
+         "amount": -77.28
+      },
+      {
+         "date": "02/03/2024",
+         "label": "Récompense cashback",
+         "amount": 2.2
+      },
+      {
+         "date": "03/03/2024",
+         "label": "Virement interne - Épargne",
+         "amount": -284.7
+      },
+      {
+         "date": "03/03/2024",
+         "label": "Prélèvement EDF",
+         "amount": -121.04
+      },
+      {
+         "date": "05/03/2024",
+         "label": "Prélèvement Mutuelle",
+         "amount": -196.09
+      },
+      {
+         "date": "06/03/2024",
+         "label": "Virement envoyé - Colocataire",
+         "amount": -170.55
+      },
+      {
+         "date": "06/03/2024",
+         "label": "Paiement carte - Essence",
+         "amount": -81.11
+      },
+      {
+         "date": "08/03/2024",
+         "label": "Récompense cashback",
+         "amount": 1.15
+      },
+      {
+         "date": "08/03/2024",
+         "label": "Abonnement Netflix",
+         "amount": -13.27
+      },
+      {
+         "date": "08/03/2024",
+         "label": "Paiement carte - Boulangerie",
+         "amount": -9.8
+      },
+      {
+         "date": "09/03/2024",
+         "label": "Virement reçu - Ami",
+         "amount": 46.57
+      },
+      {
+         "date": "09/03/2024",
+         "label": "Paiement carte - Essence",
+         "amount": -30.31
+      },
+      {
+         "date": "09/03/2024",
+         "label": "Remboursement impôts",
+         "amount": 131.69
+      },
+      {
+         "date": "10/03/2024",
+         "label": "Paiement carte - Cinéma",
+         "amount": -16.4
+      },
+      {
+         "date": "11/03/2024",
+         "label": "Paiement carte - Pharmacie",
+         "amount": -79.32
+      },
+      {
+         "date": "11/03/2024",
+         "label": "Versement espèces",
+         "amount": 22.27
+      },
+      {
+         "date": "11/03/2024",
+         "label": "Prélèvement Gym",
+         "amount": -68.42
+      },
+      {
+         "date": "11/03/2024",
+         "label": "Versement espèces",
+         "amount": 68.14
+      },
+      {
+         "date": "12/03/2024",
+         "label": "Retrait DAB",
+         "amount": -44.64
+      },
+      {
+         "date": "12/03/2024",
+         "label": "Paiement carte - Boulangerie",
+         "amount": -12.55
+      },
+      {
+         "date": "12/03/2024",
+         "label": "Paiement carte - Restaurant",
+         "amount": -149.35
+      },
+      {
+         "date": "14/03/2024",
+         "label": "Prélèvement Téléphone",
+         "amount": -30.33
+      },
+      {
+         "date": "14/03/2024",
+         "label": "Paiement carte - Supermarché",
+         "amount": -123.58
+      },
+      {
+         "date": "15/03/2024",
+         "label": "Prélèvement Internet",
+         "amount": -71.14
+      },
+      {
+         "date": "16/03/2024",
+         "label": "Virement reçu - Salaire",
+         "amount": 1762.43
+      },
+      {
+         "date": "16/03/2024",
+         "label": "Paiement carte - Cinéma",
+         "amount": -19.19
+      },
+      {
+         "date": "17/03/2024",
+         "label": "Remboursement Sécurité Sociale",
+         "amount": 63.81
+      },
+      {
+         "date": "19/03/2024",
+         "label": "Virement envoyé - Colocataire",
+         "amount": -186.82
+      },
+      {
+         "date": "19/03/2024",
+         "label": "Achat en ligne - Amazon",
+         "amount": -413.48
+      },
+      {
+         "date": "20/03/2024",
+         "label": "Dépôt chèque",
+         "amount": 113.08
+      },
+      {
+         "date": "21/03/2024",
+         "label": "Retrait DAB",
+         "amount": -134.97
+      },
+      {
+         "date": "22/03/2024",
+         "label": "Paiement carte - Essence",
+         "amount": -95.94
+      },
+      {
+         "date": "24/03/2024",
+         "label": "Paiement carte - Supermarché",
+         "amount": -124.72
+      },
+      {
+         "date": "26/03/2024",
+         "label": "Virement reçu - Assurance",
+         "amount": 131.17
+      },
+      {
+         "date": "26/03/2024",
+         "label": "Paiement carte - Essence",
+         "amount": -75.73
+      },
+      {
+         "date": "27/03/2024",
+         "label": "Achat en ligne - Amazon",
+         "amount": -407.58
+      },
+      {
+         "date": "27/03/2024",
+         "label": "Paiement carte - Supermarché",
+         "amount": -99.83
+      },
+      {
+         "date": "28/03/2024",
+         "label": "Virement reçu - Ami",
+         "amount": 23.35
+      }
+   ]
+}

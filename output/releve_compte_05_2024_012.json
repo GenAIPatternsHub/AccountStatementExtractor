@@ -1,0 +1,206 @@
+{
+   "initial_amount": 1699.82,
+   "final_amount": 269.48,
+   "transactions": [
+      {
+         "date": "01/05/2024",
+         "label": "Prélèvement Gym",
+         "amount": -67.83
+      },
+      {
+         "date": "03/05/2024",
+         "label": "Achat en ligne - Amazon",
+         "amount": -346.11
+      },
+      {
+         "date": "03/05/2024",
+         "label": "Prélèvement Internet",
+         "amount": -81.35
+      },
+      {
+         "date": "04/05/2024",
+         "label": "Paiement carte - Cinéma",
+         "amount": -31.97
+      },
+      {
+         "date": "04/05/2024",
+         "label": "Prélèvement Téléphone",
+         "amount": -30.47
+      },
+      {
+         "date": "04/05/2024",
+         "label": "Paiement carte - Essence",
+         "amount": -20.45
+      },
+      {
+         "date": "06/05/2024",
+         "label": "Paiement carte - Boulangerie",
+         "amount": -17.77
+      },
+      {
+         "date": "07/05/2024",
+         "label": "Paiement carte - Restaurant",
+         "amount": -144.19
+      },
+      {
+         "date": "08/05/2024",
+         "label": "Paiement carte - Supermarché",
+         "amount": -58.14
+      },
+      {
+         "date": "08/05/2024",
+         "label": "Retrait DAB",
+         "amount": -175.25
+      },
+      {
+         "date": "09/05/2024",
+         "label": "Paiement carte - Boulangerie",
+         "amount": -11.67
+      },
+      {
+         "date": "10/05/2024",
+         "label": "Paiement carte - Librairie",
+         "amount": -7.67
+      },
+      {
+         "date": "11/05/2024",
+         "label": "Paiement carte - Pharmacie",
+         "amount": -93.09
+      },
+      {
+         "date": "11/05/2024",
+         "label": "Paiement carte - Pharmacie",
+         "amount": -36.46
+      },
+      {
+         "date": "11/05/2024",
+         "label": "Récompense cashback",
+         "amount": 3.13
+      },
+      {
+         "date": "12/05/2024",
+         "label": "Paiement carte - Essence",
+         "amount": -30.21
+      },
+      {
+         "date": "12/05/2024",
+         "label": "Paiement carte - Cinéma",
+         "amount": -20.77
+      },
+      {
+         "date": "15/05/2024",
+         "label": "Virement reçu - Ami",
+         "amount": 79.89
+      },
+      {
+         "date": "17/05/2024",
+         "label": "Paiement carte - Essence",
+         "amount": -79.21
+      },
+      {
+         "date": "17/05/2024",
+         "label": "Remboursement Sécurité Sociale",
+         "amount": 72.67
+      },
+      {
+         "date": "18/05/2024",
+         "label": "Virement reçu - Ami",
+         "amount": 29.0
+      },
+      {
+         "date": "19/05/2024",
+         "label": "Virement reçu - Assurance",
+         "amount": 187.19
+      },
+      {
+         "date": "19/05/2024",
+         "label": "Paiement carte - Essence",
+         "amount": -24.1
+      },
+      {
+         "date": "19/05/2024",
+         "label": "Récompense cashback",
+         "amount": 4.34
+      },
+      {
+         "date": "20/05/2024",
+         "label": "Paiement carte - Supermarché",
+         "amount": -106.07
+      },
+      {
+         "date": "21/05/2024",
+         "label": "Paiement carte - Boulangerie",
+         "amount": -11.67
+      },
+      {
+         "date": "21/05/2024",
+         "label": "Virement interne - Épargne",
+         "amount": -429.84
+      },
+      {
+         "date": "21/05/2024",
+         "label": "Achat en ligne - Amazon",
+         "amount": -329.07
+      },
+      {
+         "date": "22/05/2024",
+         "label": "Prélèvement Gym",
+         "amount": -39.65
+      },
+      {
+         "date": "22/05/2024",
+         "label": "Paiement carte - Supermarché",
+         "amount": -114.82
+      },
+      {
+         "date": "23/05/2024",
+         "label": "Virement envoyé - Colocataire",
+         "amount": -299.09
+      },
+      {
+         "date": "24/05/2024",
+         "label": "Dépôt chèque",
+         "amount": 907.81
+      },
+      {
+         "date": "24/05/2024",
+         "label": "Abonnement Netflix",
+         "amount": -11.6
+      },
+      {
+         "date": "24/05/2024",
+         "label": "Versement espèces",
+         "amount": 59.25
+      },
+      {
+         "date": "24/05/2024",
+         "label": "Paiement carte - Boulangerie",
+         "amount": -5.39
+      },
+      {
+         "date": "24/05/2024",
+         "label": "Versement espèces",
+         "amount": 36.36
+      },
+      {
+         "date": "25/05/2024",
+         "label": "Prélèvement Mutuelle",
+         "amount": -156.81
+      },
+      {
+         "date": "25/05/2024",
+         "label": "Remboursement Sécurité Sociale",
+         "amount": 17.18
+      },
+      {
+         "date": "26/05/2024",
+         "label": "Prélèvement EDF",
+         "amount": -130.92
+      },
+      {
+         "date": "28/05/2024",
+         "label": "Remboursement impôts",
+         "amount": 84.48
+      }
+   ]
+}

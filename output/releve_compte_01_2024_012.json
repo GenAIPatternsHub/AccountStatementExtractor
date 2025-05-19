@@ -1,0 +1,206 @@
+{
+   "initial_amount": 0.0,
+   "final_amount": 386.18,
+   "transactions": [
+      {
+         "date": "01/01/2024",
+         "label": "Dépôt chèque",
+         "amount": 695.02
+      },
+      {
+         "date": "03/01/2024",
+         "label": "Paiement carte - Supermarché",
+         "amount": -76.44
+      },
+      {
+         "date": "03/01/2024",
+         "label": "Prélèvement Gym",
+         "amount": -81.46
+      },
+      {
+         "date": "05/01/2024",
+         "label": "Paiement carte - Essence",
+         "amount": -81.65
+      },
+      {
+         "date": "06/01/2024",
+         "label": "Versement espèces",
+         "amount": 102.53
+      },
+      {
+         "date": "06/01/2024",
+         "label": "Virement reçu - Ami",
+         "amount": 96.7
+      },
+      {
+         "date": "07/01/2024",
+         "label": "Paiement carte - Restaurant",
+         "amount": -57.59
+      },
+      {
+         "date": "09/01/2024",
+         "label": "Remboursement impôts",
+         "amount": 115.52
+      },
+      {
+         "date": "10/01/2024",
+         "label": "Prélèvement Téléphone",
+         "amount": -25.86
+      },
+      {
+         "date": "11/01/2024",
+         "label": "Paiement carte - Cinéma",
+         "amount": -41.86
+      },
+      {
+         "date": "11/01/2024",
+         "label": "Prélèvement Internet",
+         "amount": -99.76
+      },
+      {
+         "date": "11/01/2024",
+         "label": "Paiement carte - Supermarché",
+         "amount": -125.56
+      },
+      {
+         "date": "13/01/2024",
+         "label": "Abonnement Netflix",
+         "amount": -11.9
+      },
+      {
+         "date": "13/01/2024",
+         "label": "Remboursement Sécurité Sociale",
+         "amount": 64.23
+      },
+      {
+         "date": "13/01/2024",
+         "label": "Remboursement Sécurité Sociale",
+         "amount": 13.06
+      },
+      {
+         "date": "13/01/2024",
+         "label": "Paiement carte - Boulangerie",
+         "amount": -9.03
+      },
+      {
+         "date": "13/01/2024",
+         "label": "Paiement carte - Essence",
+         "amount": -63.33
+      },
+      {
+         "date": "14/01/2024",
+         "label": "Prélèvement Mutuelle",
+         "amount": -162.49
+      },
+      {
+         "date": "14/01/2024",
+         "label": "Prélèvement EDF",
+         "amount": -72.18
+      },
+      {
+         "date": "14/01/2024",
+         "label": "Paiement carte - Cinéma",
+         "amount": -39.45
+      },
+      {
+         "date": "14/01/2024",
+         "label": "Paiement carte - Pharmacie",
+         "amount": -14.54
+      },
+      {
+         "date": "15/01/2024",
+         "label": "Prélèvement Gym",
+         "amount": -91.14
+      },
+      {
+         "date": "15/01/2024",
+         "label": "Paiement carte - Essence",
+         "amount": -25.39
+      },
+      {
+         "date": "15/01/2024",
+         "label": "Paiement carte - Boulangerie",
+         "amount": -16.22
+      },
+      {
+         "date": "16/01/2024",
+         "label": "Retrait DAB",
+         "amount": -128.23
+      },
+      {
+         "date": "16/01/2024",
+         "label": "Paiement carte - Pharmacie",
+         "amount": -39.0
+      },
+      {
+         "date": "17/01/2024",
+         "label": "Virement reçu - Salaire",
+         "amount": 2241.95
+      },
+      {
+         "date": "17/01/2024",
+         "label": "Virement envoyé - Colocataire",
+         "amount": -222.06
+      },
+      {
+         "date": "18/01/2024",
+         "label": "Paiement carte - Librairie",
+         "amount": -40.59
+      },
+      {
+         "date": "18/01/2024",
+         "label": "Virement reçu - Ami",
+         "amount": 85.93
+      },
+      {
+         "date": "18/01/2024",
+         "label": "Paiement carte - Essence",
+         "amount": -73.71
+      },
+      {
+         "date": "20/01/2024",
+         "label": "Paiement carte - Supermarché",
+         "amount": -149.37
+      },
+      {
+         "date": "21/01/2024",
+         "label": "Virement envoyé - Colocataire",
+         "amount": -700.24
+      },
+      {
+         "date": "21/01/2024",
+         "label": "Paiement carte - Restaurant",
+         "amount": -117.77
+      },
+      {
+         "date": "21/01/2024",
+         "label": "Récompense cashback",
+         "amount": 4.8
+      },
+      {
+         "date": "23/01/2024",
+         "label": "Paiement carte - Restaurant",
+         "amount": -137.52
+      },
+      {
+         "date": "24/01/2024",
+         "label": "Retrait DAB",
+         "amount": -63.42
+      },
+      {
+         "date": "26/01/2024",
+         "label": "Virement interne - Épargne",
+         "amount": -199.8
+      },
+      {
+         "date": "26/01/2024",
+         "label": "Versement espèces",
+         "amount": 59.59
+      },
+      {
+         "date": "27/01/2024",
+         "label": "Paiement carte - Supermarché",
+         "amount": -125.59
+      }
+   ]
+}

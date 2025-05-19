@@ -1,0 +1,206 @@
+{
+   "initial_amount": -207.94,
+   "final_amount": 1294.22,
+   "transactions": [
+      {
+         "date": "01/08/2024",
+         "label": "Prélèvement Internet",
+         "amount": -30.92
+      },
+      {
+         "date": "01/08/2024",
+         "label": "Prélèvement Gym",
+         "amount": -76.45
+      },
+      {
+         "date": "02/08/2024",
+         "label": "Retrait DAB",
+         "amount": -160.67
+      },
+      {
+         "date": "02/08/2024",
+         "label": "Versement espèces",
+         "amount": 38.35
+      },
+      {
+         "date": "03/08/2024",
+         "label": "Virement envoyé - Colocataire",
+         "amount": -162.13
+      },
+      {
+         "date": "03/08/2024",
+         "label": "Récompense cashback",
+         "amount": 15.52
+      },
+      {
+         "date": "03/08/2024",
+         "label": "Paiement carte - Librairie",
+         "amount": -22.4
+      },
+      {
+         "date": "03/08/2024",
+         "label": "Paiement carte - Restaurant",
+         "amount": -23.03
+      },
+      {
+         "date": "05/08/2024",
+         "label": "Paiement carte - Supermarché",
+         "amount": -51.77
+      },
+      {
+         "date": "05/08/2024",
+         "label": "Virement envoyé - Colocataire",
+         "amount": -143.33
+      },
+      {
+         "date": "07/08/2024",
+         "label": "Paiement carte - Boulangerie",
+         "amount": -15.36
+      },
+      {
+         "date": "07/08/2024",
+         "label": "Prélèvement Gym",
+         "amount": -89.71
+      },
+      {
+         "date": "09/08/2024",
+         "label": "Paiement carte - Supermarché",
+         "amount": -137.62
+      },
+      {
+         "date": "10/08/2024",
+         "label": "Dépôt chèque",
+         "amount": 959.1
+      },
+      {
+         "date": "11/08/2024",
+         "label": "Achat en ligne - Amazon",
+         "amount": -422.99
+      },
+      {
+         "date": "11/08/2024",
+         "label": "Paiement carte - Restaurant",
+         "amount": -31.83
+      },
+      {
+         "date": "12/08/2024",
+         "label": "Remboursement Sécurité Sociale",
+         "amount": 78.41
+      },
+      {
+         "date": "12/08/2024",
+         "label": "Virement interne - Épargne",
+         "amount": -63.52
+      },
+      {
+         "date": "13/08/2024",
+         "label": "Virement reçu - Ami",
+         "amount": 96.09
+      },
+      {
+         "date": "13/08/2024",
+         "label": "Prélèvement EDF",
+         "amount": -45.4
+      },
+      {
+         "date": "13/08/2024",
+         "label": "Paiement carte - Essence",
+         "amount": -58.92
+      },
+      {
+         "date": "14/08/2024",
+         "label": "Virement reçu - Salaire",
+         "amount": 2423.91
+      },
+      {
+         "date": "14/08/2024",
+         "label": "Versement espèces",
+         "amount": 174.46
+      },
+      {
+         "date": "15/08/2024",
+         "label": "Achat en ligne - Amazon",
+         "amount": -209.69
+      },
+      {
+         "date": "16/08/2024",
+         "label": "Paiement carte - Essence",
+         "amount": -99.02
+      },
+      {
+         "date": "17/08/2024",
+         "label": "Paiement carte - Cinéma",
+         "amount": -13.52
+      },
+      {
+         "date": "19/08/2024",
+         "label": "Achat en ligne - Amazon",
+         "amount": -32.89
+      },
+      {
+         "date": "19/08/2024",
+         "label": "Paiement carte - Essence",
+         "amount": -94.73
+      },
+      {
+         "date": "20/08/2024",
+         "label": "Paiement carte - Boulangerie",
+         "amount": -14.77
+      },
+      {
+         "date": "21/08/2024",
+         "label": "Paiement carte - Pharmacie",
+         "amount": -72.43
+      },
+      {
+         "date": "21/08/2024",
+         "label": "Prélèvement Mutuelle",
+         "amount": -174.46
+      },
+      {
+         "date": "21/08/2024",
+         "label": "Paiement carte - Boulangerie",
+         "amount": -18.08
+      },
+      {
+         "date": "23/08/2024",
+         "label": "Virement reçu - Ami",
+         "amount": 98.53
+      },
+      {
+         "date": "24/08/2024",
+         "label": "Récompense cashback",
+         "amount": 18.18
+      },
+      {
+         "date": "24/08/2024",
+         "label": "Paiement carte - Essence",
+         "amount": -54.62
+      },
+      {
+         "date": "26/08/2024",
+         "label": "Abonnement Netflix",
+         "amount": -15.21
+      },
+      {
+         "date": "27/08/2024",
+         "label": "Prélèvement Téléphone",
+         "amount": -21.5
+      },
+      {
+         "date": "27/08/2024",
+         "label": "Remboursement impôts",
+         "amount": 98.33
+      },
+      {
+         "date": "27/08/2024",
+         "label": "Retrait DAB",
+         "amount": -74.34
+      },
+      {
+         "date": "28/08/2024",
+         "label": "Paiement carte - Pharmacie",
+         "amount": -67.41
+      }
+   ]
+}

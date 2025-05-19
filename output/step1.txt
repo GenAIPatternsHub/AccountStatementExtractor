@@ -1,0 +1,175 @@
+Page 1:
+Banque Horizon
+Relevé de compte - 12/2024
+Numéro de compte : FR76 1234 5678 9012
+Solde initial : 3364.27 €
+Date
+Description
+Montant (€)
+Solde (€)
+02/12/2024
+Abonnement Netflix
+-14.47
+3349.80
+02/12/2024
+Prélèvement Gym
+-28.07
+3321.73
+02/12/2024
+Paiement carte - Boulangerie
+-5.52
+3316.21
+05/12/2024
+Paiement carte - Boulangerie
+-18.62
+3297.59
+06/12/2024
+Paiement carte - Boulangerie
+-19.86
+3277.73
+06/12/2024
+Virement envoyé - Colocataire
+-225.98
+3051.75
+08/12/2024
+Achat en ligne - Amazon
+-460.97
+2590.78
+09/12/2024
+Remboursement Sécurité Sociale
+44.23
+2635.01
+10/12/2024
+Virement reçu - Ami
+31.10
+2666.11
+10/12/2024
+Paiement carte - Supermarché
+-77.71
+2588.40
+10/12/2024
+Paiement carte - Supermarché
+-51.10
+2537.30
+11/12/2024
+Paiement carte - Pharmacie
+-98.52
+2438.78
+11/12/2024
+Achat en ligne - Amazon
+-334.18
+2104.60
+12/12/2024
+Prélèvement EDF
+-116.99
+1987.61
+12/12/2024
+Virement envoyé - Colocataire
+-335.83
+1651.78
+13/12/2024
+Paiement carte - Cinéma
+-38.87
+1612.91
+14/12/2024
+Prélèvement Téléphone
+-37.69
+1575.22
+15/12/2024
+Virement reçu - Assurance
+161.99
+1737.21
+15/12/2024
+Paiement carte - Librairie
+-21.81
+1715.40
+15/12/2024
+Achat en ligne - Amazon
+-214.10
+1501.30
+16/12/2024
+Paiement carte - Pharmacie
+-29.95
+1471.35
+17/12/2024
+Paiement carte - Cinéma
+-26.11
+1445.24
+17/12/2024
+Remboursement impôts
+127.96
+1573.20
+17/12/2024
+Virement reçu - Salaire
+2145.68
+3718.88
+18/12/2024
+Prélèvement Internet
+-82.19
+3636.69
+18/12/2024
+Virement interne - Épargne
+-405.07
+3231.62
+19/12/2024
+Versement espèces
+144.53
+3376.15
+19/12/2024
+Paiement carte - Restaurant
+-104.38
+3271.77
+21/12/2024
+Retrait DAB
+-96.57
+3175.20
+21/12/2024
+Remboursement Sécurité Sociale
+53.24
+3228.44
+21/12/2024
+Paiement carte - Supermarché
+-115.07
+3113.37
+22/12/2024
+Dépôt chèque
+792.34
+3905.71
+22/12/2024
+Paiement carte - Boulangerie
+-8.26
+3897.45
+
+
+Page 2:
+23/12/2024
+Prélèvement Mutuelle
+-113.98
+3783.47
+23/12/2024
+Versement espèces
+93.39
+3876.86
+24/12/2024
+Virement reçu - Ami
+55.16
+3932.02
+25/12/2024
+Paiement carte - Supermarché
+-119.89
+3812.13
+25/12/2024
+Récompense cashback
+10.30
+3822.43
+26/12/2024
+Paiement carte - Essence
+-97.17
+3725.26
+28/12/2024
+Paiement carte - Restaurant
+-22.53
+3702.73
+Solde final : 3702.73 €
+
+
