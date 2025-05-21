@@ -1,6 +1,6 @@
 # Extraction de données depuis des PDF avec de l'IA générative
 
-Dans un [article précédent](https://www.linkedin.com/pulse/lia-gen-pour-g%25C3%25A9n%25C3%25A9rer-des-donn%25C3%25A9es-de-test-pierre-mellet-nkile/), j'ai présenté la création de données d'exemple au format PDF.
+Dans un [article précédent](https://www.linkedin.com/pulse/lia-gen-pour-g%25C3%25A9n%25C3%25A9rer-des-donn%25C3%25A9es-de-test-pierre-mellet-nkile/), j'ai présenté la création de données d'exemple au format PDF avec de l'IA Gen.
 
 J'envisage d'utiliser ces données pour développer de nouvelles capacités pour mon assistant personnel, afin qu'il puisse répondre à des questions et réaliser des analyses basées sur des documents PDF, tels que des relevés de comptes ou des factures de courses.
 
