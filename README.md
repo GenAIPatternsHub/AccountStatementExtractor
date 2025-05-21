@@ -85,53 +85,7 @@ Examinons ce que cela donne si on applique ce code à un exemple de relevé de c
 
 L'application du code précédent, basé sur un OCR, permet d'extraire le contenu suivant :
 
-```
-Page 1:
-Banque Horizon
- Relevé de compte - 12/2024
-Numéro de compte : FR76 1234 5678 9012
-Solde initial : 3364.27 €
-Date
-Description
-Montant (€)
-Solde (€)
-02/12/2024
-Abonnement Netflix
--14.47
-3349.80
-02/12/2024
-Prélèvement Gym
--28.07
-3321.73
-02/12/2024
-Paiement carte - Boulangerie
--5.52
-3316.21
-05/12/2024
-Paiement carte - Boulangerie
--18.62
-3297.59
-06/12/2024
-Paiement carte - Boulangerie
--19.86
-3277.73
-06/12/2024
-Virement envoyé - Colocataire
--225.98
-3051.75
-08/12/2024
-Achat en ligne - Amazon
--460.97
-2590.78
-09/12/2024
-Remboursement Sécurité Sociale
-44.23
-2635.01
-10/12/2024
-
-...
-
-```
+![ocr](./images/ocr.png "ocr")
 
 C'est un bon début, car j'ai réussi à extraire des données ! Cependant, je constate que certaines informations clés liées à la structure du tableau d'origine contenant les transactions ont été perdues (nom des colonnes).
 
@@ -150,36 +104,7 @@ Avant de commencer l'extraction des données, il est crucial de définir le JSON
 
 Pour répondre à mon besoin, je souhaite extraire une liste de transactions. Pour ce faire, j'ai besoin de deux classes : la première pour représenter l'ensemble des transactions et des soldes, et la seconde pour décrire chaque transaction individuelle.
 
-
-```python
-
-class Transaction(BaseModel):
-    """
-    Représente une transaction dans un relevé de compte.
-
-    Attributes:
-        date (str): La date à laquelle la transaction a eu lieu.
-        label (str): Une description ou un identifiant de la transaction.
-        amount (float): Le montant de la transaction.
-    """
-    date: str = Field(description="Date de la transaction")
-    label: str = Field(description="Label de la transaction")
-    amount: float = Field(description="Montant de la transaction")
-
-class AccountStatement(BaseModel):
-    """
-    Modélise un relevé de compte contenant des informations financières.
-
-    Attributes:
-        initial_amount (float): Montant initial sur le relevé de compte.
-        final_amount (float): Montant final sur le relevé de compte après toutes les transactions.
-        transactions (list[Transaction]): Liste des transactions associées à ce relevé de compte.
-    """
-    initial_amount: float = Field(description="Montant initial")
-    final_amount: float = Field(description="Montant final")
-    transactions: list[Transaction] = Field(description="Liste des transactions")  # Liste des transactions
-    
-```
+![model](./images/model.png "model")
 
 Il est important de souligner que les attributs de ces deux classes sont initialisés à l'aide d'une instance de la classe Pydantic Field, qui permet de spécifier en langage naturel le rôle de chaque champ. Le LLM tirera parti de ces informations lors de la génération pour identifier la nature des données à produire pour chaque attribut.
 
@@ -187,11 +112,7 @@ C'est ici que l'abstraction offerte par Langchain permet un gain de temps consid
 
 Pour appeler un LLM tout en lui spécifiant les règles sur la structuration des réponses, cela s'exprime en quelques lignes simples à comprendre :
 
-```python
-
-llm = ChatOpenAI(model="gpt-4o-mini").with_structured_output(AccountStatement)
-
-```
+![model](./images/chain.png "model")
 
 Je souhaite utiliser le modèle gpt-4o-mini avec un format de réponse qui respecte le modèle d'objet défini par la classe AccountStatement.
 
